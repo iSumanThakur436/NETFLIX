@@ -1,1 +1,4 @@
 # NETFLIX
+Take a quick look of the project : https://isumanthakur436.github.io/NETFLIX/
+
+This is a clone of Official Netflix Webpage, containing Multiple page designs using HTML, CSS, JS and API. In the landing page I have used 3 seperate pages, stacked them in a layer and associated 3 differnt buttons with them, with the help of java-script I then created spearate functions for the buttons which will move the respective page to the top, opon pressing. For the Home page I added a video and used js to animated the logo of the show when the video hits certain time limit.The body part of the home page is fetching all the images from TMDB API and with the help of css I put the images in different sliders based on their catagory. The entire site is responsive through-out all the devices and it is also optimised for different search engines(Sarafi & Chrome).
